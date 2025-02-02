@@ -869,12 +869,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x49EB74ec5AEE7b51baa44b076469441Db83b8ea1",
-      "transactionHash": "0x10dfb05ba2c3da1e66cd5b3c2732a6000df68368c9b62df22165e8b66de808bb"
+      "address": "0xb172cC188FCcB9AeC03987136676Ed131e22d154",
+      "transactionHash": "0x7b98e6b381337f5c1ecee85f67bebbb5ec4d5bbc9c7e3019727dc6af2478d0b0"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2025-02-02T18:03:57.896Z",
+  "updatedAt": "2025-02-02T19:25:42.625Z",
   "devdoc": {
     "methods": {}
   },

@@ -1,3 +1,4 @@
+
 var Election = artifacts.require('./Election.sol');
 
 contract('Election', (accounts) => {
@@ -35,8 +36,8 @@ contract('Election', (accounts) => {
         var candidate1 = await this.election.candidates(1)
         assert.equal(candidate1.voteCount.toNumber(), 1)
 
-        var voter = await this.election.voters(accounts[0])
-        assert.equal(voter, true)
+        var result = await this.election.voters(accounts[0])
+        assert.equal(result, true)
 
       })
 
